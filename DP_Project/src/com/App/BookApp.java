@@ -24,7 +24,7 @@ public class BookApp {
 		case 3:b.update(101);
 		break;
 		case 4:
-			b.delete(101);
+			b.delete(102);
 		break;
 		case 5:b.search(101);
 		default:System.out.println("Invalid operation");
